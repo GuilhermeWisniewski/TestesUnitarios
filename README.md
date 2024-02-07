@@ -1,4 +1,5 @@
 Guilherme dos Santos Wisniewski RA: 813319
+
 A aplicação a ser testada é uma função que recebe três valores, 
 verifica se esses tres valores formam um triangulo e então o classifica
 
