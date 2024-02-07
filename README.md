@@ -7,11 +7,15 @@ O primeiro teste verifica se as entradas formam um triangulo,
 4 testes seguintes verificam as três classificações de um triangulo (equilatero, isoceles e escaleno)
 
 Verifique se o python e o pytest estão instalados em seu ambiente:
+
     pytest --version
+    
     python --version
 
 Caso seja necessário instale-os:
+
     pip install python
+    
     pip install pytest
 
 Com o ambiente configurado:
