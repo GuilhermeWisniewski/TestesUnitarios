@@ -19,7 +19,7 @@ Caso seja necessário instale-os:
     pip install pytest
 
 Com o ambiente configurado:
-Para executar a aplicação use o comando (com a, b, c sendo numeros naturais):
+Para executar a aplicação use o comando (com a, b, c sendo numeros reais):
     
     python triangulo.py a b c
 
